@@ -1,0 +1,17 @@
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/elingenierobecerra/ficha288.git
+git push -u origin main
+
+
+git config user.email "your_email@abc.example"
+git config user.name "elingenierobecerra"
+
+git add index.html
+git commit -m "Mi segundo commit"
+git push
+
+● consultar los conceptos y características definidas en el componente XML
+● Identifique de layouts para Android.
+● Consultar el concepto de responsividad en XML
